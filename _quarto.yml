@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "website-demo"
+  title: "Kona Dog"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - quarto-lesson.qmd
 
 format:
   html:

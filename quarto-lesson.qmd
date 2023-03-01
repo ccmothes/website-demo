@@ -1,0 +1,8 @@
+---
+title: "Quarto Lesson"
+author: "Kona Dog"
+---
+
+# Quarto lesson
+
+This is where my mom (Dr. Mothes) would put lesson content for the Quarto thing, but she is too lazy to do that right now so this file is a plaseholdr (did I spell that right) - Kona
